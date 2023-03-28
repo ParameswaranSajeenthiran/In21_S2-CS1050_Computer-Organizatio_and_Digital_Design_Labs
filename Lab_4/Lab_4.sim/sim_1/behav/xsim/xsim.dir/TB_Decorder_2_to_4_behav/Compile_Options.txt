@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "TB_Decorder_2_to_4_behav" "xil_defaultlib.TB_Decorder_2_to_4" -log "elaborate.log" 
